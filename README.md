@@ -1,4 +1,4 @@
-## Intro To Computing
+## Tower
 Project for CSC 103 - Intro To Computing with Professor William Skeith at the City College of New York.
 ## About The Project
 In this project, you are asked to implement a general solution to the Towers of Hanoi puzzle.
